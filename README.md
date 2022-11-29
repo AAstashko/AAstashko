@@ -18,8 +18,13 @@
 ![TESTRAIL](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
 ## Testing Documentation
+- [Checklists](https://github.com/AAstashko/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/AAstashko/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/AAstashko/Bug-Reports)
+- [SQL Queries](https://github.com/AAstashko/SQL-Queries)
+- [Postman](https://github.com/AAstashko/Postman)
 
 ### Contact me
 [![TELEGRAM](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/trollentino/)
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](linkedin.com/in/alexander-astashko/)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](linkedin.com/in/alexander-astashko)
 [![GMAIL](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](https://mailto:astashko.a@gmail.com/)
