@@ -4,7 +4,8 @@
 
 ## Status: Looking for an intersting work
 
-My CV
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1CZSAGoHEaNtabvpy9jxiaLjl44hSzYPy/view?usp=share_link)
 
 ## Languages and tools
 ![JIRA](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -16,6 +17,6 @@ My CV
 ![TESTRAIL](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=Soapui&logoColor=71b556)
 ![TESTRAIL](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
-Testing documentation
+### Testing Documentation
 
 Follow me
