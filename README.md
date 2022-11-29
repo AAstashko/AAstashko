@@ -1,4 +1,4 @@
-![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/logo.png)
+![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/Neon_gif.gif)
 
 About me
 
