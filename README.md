@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/logo.png)
 
 About me
 
