@@ -13,10 +13,13 @@
 ![GITHUB](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![MYSQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=71b556)
 ![DEVTOOLS](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![TESTRAIL](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=Soapui&logoColor=71b556)
+![ANDROIDSTUDIO](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![SOAPUI](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=Soapui&logoColor=71b556)
 ![TESTRAIL](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
-### Testing Documentation
+## Testing Documentation
 
-Follow me
+### Contact me
+[![TELEGRAM](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/trollentino/)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](linkedin.com/in/alexander-astashko/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](https://mailto:astashko.a@gmail.com/)
