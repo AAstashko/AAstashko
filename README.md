@@ -27,7 +27,6 @@
 ### Contact me
 [![TELEGRAM](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/trollentino/)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/alexander-astashko?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BddYQow4OT5GKCnWrJ0FHwQ%3D%3D)
-[![GMAIL](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](https://mailto:astashko.a@gmail.com/)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAstashko&theme=midnight-purple&show_icons=true)
