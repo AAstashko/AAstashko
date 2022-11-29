@@ -30,4 +30,4 @@
 [![GMAIL](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](https://mailto:astashko.a@gmail.com/)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAstashko&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAstashko&theme=midnight-purple&show_icons=true)
