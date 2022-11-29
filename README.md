@@ -1,4 +1,4 @@
-![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/Neon_gif.gif)
+![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/Neon_gif_2.gif)
 
 ## I`m a Junior QA Engineer (Manual testing)
 
@@ -28,3 +28,6 @@
 [![TELEGRAM](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/trollentino/)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](linkedin.com/in/alexander-astashko)
 [![GMAIL](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](https://mailto:astashko.a@gmail.com/)
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAstashko&show_icons=true&theme=radical)
