@@ -29,6 +29,7 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/alexander-astashko?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BddYQow4OT5GKCnWrJ0FHwQ%3D%3D)
 [![SKYPE](https://img.shields.io/badge/skype-090909?style=for-the-badge&logo=skype&logoColor=f0073b1)](https://join.skype.com/invite/CeBKAKluFdXm)
 [![GMAIL](https://img.shields.io/badge/Mail-090909?style=for-the-badge&logo=gmail&logoColor=f70000)](mailto:astashko.a@gmail.com/)
+[![HABR](https://img.shields.io/badge/HABR-090909?style=for-the-badge&logo=habr&logoColor=f0073b1)](https://career.habr.com/trollentino)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAstashko&theme=midnight-purple&show_icons=true)
