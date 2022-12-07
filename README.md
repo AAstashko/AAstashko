@@ -1,6 +1,6 @@
 ![Header](https://github.com/AAstashko/AAstashko/blob/main/assets/Neon_gif_2.gif)
 
-## I`m a Junior QA Engineer (Manual testing)
+## QA Engineer (Manual testing)
 
 ## Status: Looking for an intersting work
 
