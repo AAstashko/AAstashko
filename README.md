@@ -18,6 +18,7 @@
 ![TESTRAIL](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
 ## Testing Documentation
+- [Pet-Project](https://github.com/AAstashko/Pet-Project)
 - [Checklists](https://github.com/AAstashko/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/AAstashko/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/AAstashko/Bug-Reports)
