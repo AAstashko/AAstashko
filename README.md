@@ -9,6 +9,7 @@
 
 ## Languages and tools
 ![JIRA](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![AZUREDEVOPS](https://img.shields.io/badge/AzureDevOps-090909?style=for-the-badge&logo=AzureDevOps&logoColor=136be1)
 ![POSTMAN](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![GITHUB](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![MYSQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=71b556)
