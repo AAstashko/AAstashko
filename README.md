@@ -6,6 +6,7 @@
 
 ## My CV
 [Link to my CV (rus)](https://drive.google.com/file/d/1nXUivpgcFJu33svkuynmnEShA2PnRnTO/view?usp=sharing)
+
 [Link to my CV (eng)](https://drive.google.com/file/d/17N0oM03Hj9h_zZMSwxSKlSLAgWShJHJg/view?usp=sharing)
 
 ## Languages and tools
