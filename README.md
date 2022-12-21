@@ -5,7 +5,8 @@
 ## Status: Looking for an intersting work
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/11f9eLA8Iqehxg_GW1y-B4wbavep2Fp2L/view?usp=share_link)
+[Link to my CV (rus)](https://drive.google.com/file/d/1nXUivpgcFJu33svkuynmnEShA2PnRnTO/view?usp=sharing)
+[Link to my CV (eng)](https://drive.google.com/file/d/17N0oM03Hj9h_zZMSwxSKlSLAgWShJHJg/view?usp=sharing)
 
 ## Languages and tools
 ![JIRA](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
