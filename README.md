@@ -17,6 +17,7 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=71b556)
 ![DEVTOOLS](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=7d5fa6)
 ![TRELLO](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
+![FIDDLER](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=7d5fa6)
 ![SOAPUI](https://img.shields.io/badge/SoapUI-090909?style=for-the-badge&logo=Soapui&logoColor=71b556)
 ![TESTRAIL](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
